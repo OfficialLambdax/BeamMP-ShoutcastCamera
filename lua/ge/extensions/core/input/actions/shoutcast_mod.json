@@ -1,0 +1,92 @@
+{
+    "toggle_shoutcast": {
+        "cat": "shoutcast_mod",
+        "order": 0,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.toggleShoutcast() end",
+        "isBasic": true,
+        "title": "Toggle Shoutcast",
+        "desc": "Will toggle the Shoutcast cam"
+    },
+    "broadcast_shoutcast": {
+        "cat": "shoutcast_mod",
+        "order": 1,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.shoutoutAction() end",
+        "isBasic": true,
+        "title": "Broadcast Shoutout",
+        "desc": "Will Broadcast the selected target. This will force all shoutcast cam users to spectate the target. Beaware that you have to click this one to select a target and then another time to broadcast it."
+    },
+    "force_swap": {
+        "cat": "shoutcast_mod",
+        "order": 2,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.forceSwapCam() end",
+        "isBasic": true,
+        "title": "Force swap camera",
+        "desc": ""
+    },
+    "toggle_shoutout_receive": {
+        "cat": "shoutcast_mod",
+        "order": 3,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.toggleShoutoutReceive() end",
+        "isBasic": true,
+        "title": "Toggle Shoutout Receive",
+        "desc": ""
+    },
+    "life_time_increase": {
+        "cat": "shoutcast_mod",
+        "order": 4,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.addLifeTime(0.5) end",
+        "isBasic": true,
+        "title": "Lifetime Increase",
+        "desc": "NOT PERSISTENT. Life time changes are only valid for the session."
+    },
+    "life_time_decrease": {
+        "cat": "shoutcast_mod",
+        "order": 5,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.addLifeTime(-0.5) end",
+        "isBasic": true,
+        "title": "Lifetime Decrease",
+        "desc": "NOT PERSISTENT. Life time changes are only valid for the session."
+    },
+    "los_time_increase": {
+        "cat": "shoutcast_mod",
+        "order": 6,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.addLOSLossTime(100) end",
+        "isBasic": true,
+        "title": "LOS loss time Increase",
+        "desc": "NOT PERSISTENT. Time changes are only valid for the session."
+    },
+    "los_time_decrease": {
+        "cat": "shoutcast_mod",
+        "order": 7,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.addLOSLossTime(-100) end",
+        "isBasic": true,
+        "title": "LOS loss time Decrease",
+        "desc": "NOT PERSISTENT. Time changes are only valid for the session."
+    },
+    "toggle_debug": {
+        "cat": "shoutcast_mod",
+        "order": 8,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.toggleDebugDraw() end",
+        "isBasic": true,
+        "title": "Toggle Draw Debug",
+        "desc": ""
+    },
+    "toggle_ui": {
+        "cat": "shoutcast_mod",
+        "order": 9,
+        "ctx": "tlua",
+        "onDown": "if Shoutcasting then Shoutcasting.toggleDrawUi() end",
+        "isBasic": true,
+        "title": "Toggle Ui debug",
+        "desc": ""
+    }
+}
