@@ -501,26 +501,32 @@ M.toggleShoutcast = function()
 end
 
 M.toggleDebugDraw = function()
+	if not IS_RUNNING then return end
 	DRAW_DEBUG = not DRAW_DEBUG
 end
 
 M.toggleDrawUi = function()
+	if not IS_RUNNING then return end
 	DRAW_UI = not DRAW_UI
 end
 
 M.toggleShoutoutReceive = function()
+	if not IS_RUNNING then return end
 	ACCEPT_SHOUTOUTS = not ACCEPT_SHOUTOUTS
 end
 
 M.forceSwapCam = function()
+	if not IS_RUNNING then return end
 	FORCE_SWAP_CAM = true
 end
 
 M.addLifeTime = function(seconds)
+	if not IS_RUNNING then return end
 	TIME_LIFE_MIN = math.max(0, TIME_LIFE_MIN + (seconds * 1000))
 end
 
 M.addLOSLossTime = function(ms)
+	if not IS_RUNNING then return end
 	TIME_LOST_LOS_MIN = math.max(0, TIME_LOST_LOS_MIN + ms)
 end
 
