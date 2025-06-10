@@ -1,0 +1,25 @@
+{"name":"Camera_1","class":"Camera","__parent":"SimGroup_","position":[-184.680054,-197.658813,20.5097275],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_10","class":"Camera","__parent":"SimGroup_","position":[70.9078293,-3.68104553,-7.56899261],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_11","class":"Camera","__parent":"SimGroup_","position":[-153.309845,16.5223541,0.452163696],"dataBlock":"Observer","rotationMatrix":[-0.995362997,-0.0961890668,0,0.0961371064,-0.994825363,-0.0328624435,0.00316100963,-0.0327101536,0.999459743]}
+{"name":"Camera_12","class":"Camera","__parent":"SimGroup_","position":[-157.68924,148.678009,1.74609375],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_13","class":"Camera","__parent":"SimGroup_","position":[-27.8369141,187.488281,-1.37166595],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_14","class":"Camera","__parent":"SimGroup_","position":[-55.2635727,359.746582,1.27662659],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_15","class":"Camera","__parent":"SimGroup_","position":[108.606697,284.12149,-8.36213684],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_16","class":"Camera","__parent":"SimGroup_","position":[323.292725,417.010803,-13.6909332],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_17","class":"Camera","__parent":"SimGroup_","position":[212.164551,532.116455,-6.79528046],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_18","class":"Camera","__parent":"SimGroup_","position":[-43.535759,449.414734,17.6489029],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_19","class":"Camera","__parent":"SimGroup_","position":[-138.339996,263.43277,15.7476044],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_2","class":"Camera","__parent":"SimGroup_","position":[-165.143311,250.237152,14.2653351],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_20","class":"Camera","__parent":"SimGroup_","position":[-186.175049,30.7199402,11.6001587],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_21","class":"Camera","__parent":"SimGroup_","position":[-162.624878,-150.408386,14.6811371],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_22","class":"Camera","__parent":"SimGroup_","position":[-135.242218,-426.988525,14.8580627],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_23","class":"Camera","__parent":"SimGroup_","position":[43.8893814,-476.796204,0.108924866],"dataBlock":"Observer","rotationMatrix":[-0.362859666,-0.931843698,0,0.931591868,-0.362761676,-0.0232443456,0.0216601677,-0.00843456388,0.999729693]}
+{"name":"Camera_24","class":"Camera","__parent":"SimGroup_","position":[-158.642609,-313.579742,19.1182785],"dataBlock":"Observer","rotationMatrix":[-0.975077748,0.221862048,0,0.221862033,0.975077808,-5.64773727e-05,-1.25199285e-05,-5.48702264e-05,-0.999999702]}
+{"name":"Camera_3","class":"Camera","__parent":"SimGroup_","position":[-229.53006,-25.4471588,26.7224197],"dataBlock":"Observer","rotationMatrix":[0.975084364,-0.221833795,7.45057971e-09,0.22183378,0.975084364,-5.6533012e-05,1.25438164e-05,5.5159926e-05,0.999999821]}
+{"name":"Camera_4","class":"Camera","__parent":"SimGroup_","position":[-174.338409,-450.369812,22.3005142],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_5","class":"Camera","__parent":"SimGroup_","position":[-23.4621353,-428.35199,6.20505524],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_6","class":"Camera","__parent":"SimGroup_","position":[220.34613,-454.035583,1.57953644],"dataBlock":"Observer","rotationMatrix":[0.975084364,-0.221833795,7.45057971e-09,0.22183378,0.975084364,-5.6533012e-05,1.25438164e-05,5.5159926e-05,0.999999821]}
+{"name":"Camera_7","class":"Camera","__parent":"SimGroup_","position":[317.757477,-208.571655,-5.65552521],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_8","class":"Camera","__parent":"SimGroup_","position":[486.304291,117.223938,-16.0663681],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"Camera_9","class":"Camera","__parent":"SimGroup_","position":[304.633514,269.962524,-20.4734573],"dataBlock":"Observer","rotationMatrix":[0.99999994,0,0,0,0.99999994,0,0,0,0.999999881]}
+{"name":"SimGroup_","class":"SimGroup","groupPosition":"92.088539733887 190.78618888855 108.83620361328"}
